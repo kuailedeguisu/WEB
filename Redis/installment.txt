@@ -1,0 +1,9 @@
+download latest redis version:
+http://download.redis.io
+
+uncompress redis-stable.tar.gz
+cd redis-stable
+make
+make install
+make test
+
